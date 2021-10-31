@@ -1,5 +1,1 @@
 web: gunicorn project.app:app
-
-Flask==1.1.2
-gunicorn==20.0.4
-pytest==6.1.1
